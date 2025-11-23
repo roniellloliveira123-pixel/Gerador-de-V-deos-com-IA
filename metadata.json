@@ -1,0 +1,7 @@
+{
+  "name": "Gerador de Vídeos com IA",
+  "description": "Crie vídeos curtos para diferentes nichos (Finanças, Desenvolvimento Pessoal, Curiosidades, etc.), com roteiro, narração e imagens gerados por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
